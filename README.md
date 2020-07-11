@@ -1,2 +1,1 @@
 # JavaScript-CheatSheet
-# JavaScript-CheatSheet
